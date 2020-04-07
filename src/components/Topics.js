@@ -1,10 +1,10 @@
 import React from 'react'
 
-function Users() {
+function Topics() {
     return(
         <div>
-            Users
+            Topics
         </div>
     )
 }
-export default Users
+export default Topics
